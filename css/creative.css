@@ -82,7 +82,7 @@ img::-moz-selection {
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #fff;
+  background-color: #212529;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -308,5 +308,11 @@ header.masthead p {
 }
 
 .btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(134, 232, 232, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(105, 209, 77, 0.5) !important;
 }
+.color-navbar-dark{
+  color: #212529 ;
+  background-color:  #212529;
+
+}
+
