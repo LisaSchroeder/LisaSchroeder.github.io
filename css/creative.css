@@ -56,6 +56,9 @@ h6 {
 section {
   padding: 8rem 0;
 }
+.small{
+  padding: 2rem;
+}
 
 .section-heading {
   margin-top: 0;
